@@ -1,14 +1,6 @@
 import java.util.Scanner;
 import java.util.*;
 
-/*
- Name: Daniel Peters
- Class: Csci 433, Yixin Chen
- Honor Code: "I PLEDGE MYSELF TO UPHOLD THE HIGHEST STANDARDS OF HONESTY IN MY UNIVERSITY LIFE AND I WILL NOT TOLERATE DISHONESTY ON THE PART OF OTHERS."
- Date: February 26, 2021
- Sources: Used partition method example from baeldung.com in order to fix bug in my partition method for my quick sort. Also used merge sort example from 
- 			baeldung.com in order to better understand the pseudo code provided in the project for the merge sort.
- */
 public class test {
 	public static void main (String[] args) {
 		System.out.print("Please enter the type of sorting algorithm you would like to use. \nYour options are selection, insertion, bubble, merge, or quick: ");
